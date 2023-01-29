@@ -15,6 +15,8 @@
 
         public Guid ProjectsID { get; set; }
 
+        public Language Language { get; set; }
+
 
         public Framework() { }
 
