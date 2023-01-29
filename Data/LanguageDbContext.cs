@@ -1,6 +1,9 @@
-﻿namespace LanguagesAndFrameworks.Data
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace LanguagesAndFrameworks.Data
 {
-    public class LanguageDbContext
+    public class LanguageDbContext : DbContext
     {
+
     }
 }
