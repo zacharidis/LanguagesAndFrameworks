@@ -1,6 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
  /*
  *  Programming Languages and frameworks 
+ *  A small Web Api (.NET 6 ) that returns various programming languages ,their frameworks and the type of projects you can create by using them. 
+ *  Thank you for reading this code on github
  *  written by Georgios Zacharidis while practising C# and Core Framework.
  *  zageo@Outlook.com
  *  
