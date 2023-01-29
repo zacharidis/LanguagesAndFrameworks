@@ -17,6 +17,13 @@
 
         public double CurrentVersion { get; set; }
 
+        // A language can support multiple projects
+
+        public IEnumerable<Framework> frameworks { get; set; }  
+
+
+
+
 
         //def constructor 
         public Language() { }
