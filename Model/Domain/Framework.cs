@@ -17,6 +17,8 @@
 
         public Language Language { get; set; }
 
+        public Project Project { get; set; }
+
 
         public Framework() { }
 
